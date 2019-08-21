@@ -46,3 +46,5 @@ $('.shopping-list').on('click','.shopping-item-toggle', function(event) {
     $(this).closest('li').toggleClass('shopping-item__checked');
 
 })
+
+//chain of fools
